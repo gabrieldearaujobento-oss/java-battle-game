@@ -2,13 +2,6 @@
 
 Sistema de batalha em Java utilizando Programação Orientada a Objetos.
 
-## Funcionalidades
-
-* Criação de personagens
-* Sistema de ataque
-* Controle de vida
-* Verificação de personagem vivo/morto
-
 ## Tecnologias utilizadas
 
 * Java
