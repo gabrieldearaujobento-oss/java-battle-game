@@ -2,7 +2,7 @@
 
 Sistema de batalha em Java utilizando Programação Orientada a Objetos.
 
-## Ferramentas utilizadas
+## Recursos utilizados
 
 * Java
 * Programação Orientada a Objetos (POO)
