@@ -9,10 +9,10 @@ Sistema de batalha em Java utilizando Programação Orientada a Objetos.
 * Controle de vida
 * Verificação de personagem vivo/morto
 
-## Tecnologias usadas
+## Tecnologias utilizadas
 
 * Java
-* Programação Orientada a Objetos
+* Programação Orientada a Objetos (POO)
 
 ## Estrutura do projeto
 
@@ -20,4 +20,4 @@ Sistema de batalha em Java utilizando Programação Orientada a Objetos.
 
 ## Objetivo
 
-Projeto desenvolvido para prática de lógica de programação e POO.
+Projeto desenvolvido para prática de lógica de programação, encapsulamento e conceitos de POO.
